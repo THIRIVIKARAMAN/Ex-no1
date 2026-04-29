@@ -28,6 +28,7 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 
 
 ## FLOW CHART
+
 <img width="707" height="1024" alt="image" src="https://github.com/user-attachments/assets/b5a7062d-e294-47cd-9683-a40de25e82de" />
 
 
@@ -60,14 +61,12 @@ END
 |         1205            |          68              |
 |         1206            |          00              |
 #### Manual Calculations
-
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/526307d9-155f-4a3c-92b0-77212d967860" />
 
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-
 <img width="753" height="467" alt="image" src="https://github.com/user-attachments/assets/26220551-9737-4bfb-9a4d-053c50be27d5" />
 
 
@@ -117,14 +116,12 @@ END
 
 
 #### Manual Calculations
-
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/bfd18a83-0481-4326-b100-22b7e8511751" />
 
 ---
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-
 <img width="753" height="462" alt="image" src="https://github.com/user-attachments/assets/70fba460-a0c5-4c55-8576-27a1d3df2b09" />
 
 
@@ -172,13 +169,11 @@ END
 |         1207            |          0A              |
 
 #### Manual Calculations
-
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/ae0781a2-5a8b-4c4a-aab3-175ad7031863" />
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-
 <img width="753" height="474" alt="image" src="https://github.com/user-attachments/assets/d1856e92-86ce-4ee3-9415-6ea4acdc8340" />
 
 
@@ -223,12 +218,10 @@ END
 |         1207            |          00              |
 
 #### Manual Calculations
-
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/d8416817-b265-4c3a-8000-bf773467d55b" />
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
-
 <img width="753" height="501" alt="image" src="https://github.com/user-attachments/assets/9ee67af1-bf94-4ee4-aeda-ed3207a387c0" />
 
 
