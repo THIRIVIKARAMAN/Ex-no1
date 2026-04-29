@@ -179,7 +179,7 @@ END
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 
-<img width="753" height="474" alt="image" src="https://github.com/user-attachments/assets/b327966f-45ef-4a54-808d-68c0ca0da6e4" />
+<img width="753" height="474" alt="image" src="https://github.com/user-attachments/assets/d1856e92-86ce-4ee3-9415-6ea4acdc8340" />
 
 
 ## 4. DIVISION
@@ -224,12 +224,12 @@ END
 
 #### Manual Calculations
 
-<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/fd9313c5-2ca6-4b1a-8bbe-ad1142bc6a1e" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/d8416817-b265-4c3a-8000-bf773467d55b" />
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
 
-<img width="753" height="501" alt="image" src="https://github.com/user-attachments/assets/15272eb2-99eb-494b-83ed-b22de04c98c0" />
+<img width="753" height="501" alt="image" src="https://github.com/user-attachments/assets/9ee67af1-bf94-4ee4-aeda-ed3207a387c0" />
 
 
 ## RESULT
