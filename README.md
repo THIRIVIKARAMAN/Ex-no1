@@ -169,7 +169,7 @@ END
 |         1207            |          0A              |
 
 #### Manual Calculations
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/ae0781a2-5a8b-4c4a-aab3-175ad7031863" />
+<img width="772" height="872" alt="image" src="https://github.com/user-attachments/assets/b1237b0e-8fc0-4186-994f-bbad203123c7" />
 
 ---
 
